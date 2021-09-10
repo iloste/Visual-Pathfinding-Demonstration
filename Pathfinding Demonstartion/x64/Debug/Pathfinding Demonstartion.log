@@ -1,0 +1,17 @@
+﻿  Grid.cpp
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Colours.h(23,23): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Colours.h(24,23): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Colours.h(25,23): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Colours.h(29,23): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Colours.h(30,23): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Colours.h(31,23): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(74,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(75,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(81,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(84,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(87,17): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(90,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(93,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(96,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\Grid.cpp(142,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Pathfinding Demonstartion.vcxproj -> F:\Game Development\Personal Projects\C++\Pathfinding Demonstartion\x64\Debug\Pathfinding Demonstartion.exe
